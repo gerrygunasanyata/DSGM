@@ -1,20 +1,45 @@
-# DSGM 2024
+# Gerry Gunasanyata Gunananda
 
-Data Science for Global Manager
 
-# Introduction
 
-This course introduces the _programming language_ concept and includes hands-on __Python__ practice. However, the concept is not limited to Python. Therefore, students can learn other programming languages quickly once they complete this course. The course starts with an introduction to the programming environment. Then, we cover variables, data types, and conditional statements as core elements. In addition, advanced concepts like object-oriented programming and classes, as well as debugging will be covered.
+# Education
 
-# Assessment Items
+Tunghai University | Bachelor’s Degree in International Business Administration
+- GPA: 4.28/4.3
+- 109 Academic Year Honors Student
+- 110 Academic Year Honors Student
+- 111 Academic Year Honors Student
+- Outstanding Student for year 2020, 2021, and 2022
+- TOEFL 86/120
+- Recipient of the highest scholarship type from The Office of International Relations of Tunghai University for 4 years
 
-1. Understand the basic concept of computer programming
-2. Understand the computer programming environment
-3. Practice the concepts with Python programming language
-4. Develop a collaborative attitude by conducting group projects
-5. Develop practical skills applicable to junior-level data science work
+# Experience
+**Tunghai University Indonesian Association** (June 2022 - June 2023)      
+President | Tunghai University | Taichung, Taiwan
+- Developed an efficient work schedule for the upcoming year.
+- Maintained cordial  relationships with all organization members.
+-Monitored 8 different divisions to ensure everything goes accordingly
+- Monitored 8 different divisions to ensure everything goes accordingly
 
-# Textbook
+**International Business Administration Teacher's Assistant** (October 2022 - January 2023)
+Undergraduate Teacher's Assistant | Tunghai University | Taichung, Taiwan
+- Effectively graded and input assignments and quizzes, approximately 100 students in total.
+- Assisted in the delivery of online materials to students as a whole class.
+Supervised the class during exams to ensure an honest behaviour throughout.
 
-Downey, A. (2014). [Think Python. How to Think Like a Computer Scientist](https://pythonbooks.org/think-python-how-to-think-like-a-computer-scientist). Needham, Massachusetts: Green Tea Press. (Free PDF from the author: https://pythonbooks.org/think-python-how-to-think-like-a-computer-scientist/)
+**Tunghai University Indonesian Association** (August 2021 - June 2022)  
+Leader of the General Affairs Team | Tunghai University | Taichung, Taiwan
+- Guided team members to work efficiently by hosting a meeting every month and building a good work ethic. 
+- Unified Indonesian students from Tunghai University by holding various large events. 
+- Reduced time needed to achieve goal by designing an effective work strategy.
+
+
+# Skills
+
+- Fluent in English and Bahasa Indonesia, intermediate ability in Chinese
+- Highly Organized
+- Leadership
+- Adaptability
+- Attention to detail
+- Power Point | Excel | Word | Teams | Canva | Windows
 
